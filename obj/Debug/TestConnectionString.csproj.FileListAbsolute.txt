@@ -1,0 +1,14 @@
+C:\Users\esat.erkec\AppData\Local\Temporary Projects\TestConnectionString\bin\Debug\TestConnectionString.exe.config
+C:\Users\esat.erkec\AppData\Local\Temporary Projects\TestConnectionString\bin\Debug\TestConnectionString.exe
+C:\Users\esat.erkec\AppData\Local\Temporary Projects\TestConnectionString\bin\Debug\TestConnectionString.pdb
+C:\Users\esat.erkec\AppData\Local\Temporary Projects\TestConnectionString\obj\Debug\TestConnectionString.csprojAssemblyReference.cache
+C:\Users\esat.erkec\AppData\Local\Temporary Projects\TestConnectionString\obj\Debug\TestConnectionString.csproj.CoreCompileInputs.cache
+C:\Users\esat.erkec\AppData\Local\Temporary Projects\TestConnectionString\obj\Debug\TestConnectionString.exe
+C:\Users\esat.erkec\AppData\Local\Temporary Projects\TestConnectionString\obj\Debug\TestConnectionString.pdb
+C:\TestConnectionString\bin\Debug\TestConnectionString.exe.config
+C:\TestConnectionString\bin\Debug\TestConnectionString.exe
+C:\TestConnectionString\bin\Debug\TestConnectionString.pdb
+C:\TestConnectionString\obj\Debug\TestConnectionString.csprojAssemblyReference.cache
+C:\TestConnectionString\obj\Debug\TestConnectionString.csproj.CoreCompileInputs.cache
+C:\TestConnectionString\obj\Debug\TestConnectionString.exe
+C:\TestConnectionString\obj\Debug\TestConnectionString.pdb
